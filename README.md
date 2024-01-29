@@ -14,3 +14,9 @@ The easiest way to run this code is to upload and run it on google colaboratory.
 
 # Contact Information
 Should you run into any problems while running this code or need clarification on how to run the code, please reach out to me on "https://github.com/vngeno" Additionally, if you would like to contribute to this project(by reporting a bug, correcting code or proposing a new approach), please reach out me.
+
+# Participants
+Afnan Faaz Mohammed
+Firasath Ali Mohammed
+Abdul Sameer Mohammed
+Vanessa Ngeno
